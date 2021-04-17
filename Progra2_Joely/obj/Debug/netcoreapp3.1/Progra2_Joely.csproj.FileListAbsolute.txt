@@ -1,0 +1,13 @@
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.exe
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.deps.json
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.runtimeconfig.json
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.runtimeconfig.dev.json
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.dll
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\bin\Debug\netcoreapp3.1\Progra2_Joely.pdb
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.csprojAssemblyReference.cache
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.AssemblyInfoInputs.cache
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.AssemblyInfo.cs
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.csproj.CoreCompileInputs.cache
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.dll
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.pdb
+C:\Users\Joely\source\repos\Progra2_Joely\Progra2_Joely\obj\Debug\netcoreapp3.1\Progra2_Joely.genruntimeconfig.cache
